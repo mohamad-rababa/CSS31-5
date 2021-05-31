@@ -1,0 +1,29 @@
+header img {
+  width: 300px;
+}
+
+.header-nav {
+  float: right
+}
+
+.header-nav ul li {
+  display: inline;
+  padding: 5px;
+  margin: 5px;
+  border: 2px solid blueviolet;
+}
+
+h1 {
+  text-align: center;
+  background: yellow;
+  color: #9aff47;
+}
+
+main img {
+  width: 300px;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
+}
